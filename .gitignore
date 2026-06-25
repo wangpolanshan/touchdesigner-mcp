@@ -1,0 +1,17 @@
+﻿node_modules/
+dist/
+dist-test/
+.env
+*.toe.autosave
+work/
+*.pyc
+__pycache__/
+touchdesigner/__pycache__/
+touchdesigner/install_td_mcp_deployed.py
+outputs/*.tox.dir/
+outputs/*.toc
+outputs/*.bkp*
+outputs/*.before-*.tox
+!outputs/
+!outputs/TD_MCP_Bridge.tox
+!outputs/touchdesigner-mcp-0.1.0.zip
